@@ -1,5 +1,5 @@
 # Privacy Policy
-### The Trio Tech Team will strictly comply with all relevant legislative requirements, and, in the event of any inconsistency, the legislative requirements will override the provisions of this document. We may collect personal information, such as a device ID or other persistent identifier linked to the device or computer, which may be used by a child to play our websites/apps.
+### The Trio Tech Team will strictly comply with all relevant legislative requirements, and, in the event of any inconsistency, the legislative requirements will override the provisions of this document. We may collect personal information, such as a device ID or other persistent identifier linked to the device or computer, which may be used by a user to play our websites/apps.
 
 
 ## How Information is Collected:
